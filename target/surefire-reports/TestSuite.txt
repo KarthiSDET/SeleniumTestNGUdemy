@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 52.904 s <<< FAILURE! - in TestSuite
+org.selenium.pom.tests.MyFirstTestCase.startDriver[SAFAR](0)  Time elapsed: 0.288 s  <<< FAILURE!
+java.lang.IllegalArgumentException: No enum constant org.selenium.pom.constants.DriverType.SAFAR
+
+org.selenium.pom.tests.MyFirstTestCase.startDriver[SAFAR](0)  Time elapsed: 0.289 s  <<< FAILURE!
+java.lang.IllegalArgumentException: No enum constant org.selenium.pom.constants.DriverType.SAFAR
+
